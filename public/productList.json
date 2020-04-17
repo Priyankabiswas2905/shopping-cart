@@ -1,0 +1,106 @@
+{
+    "status": 200,
+    "products": [
+        {
+            "product_id": 1,
+            "brand_name": "Amul",
+            "product_name": "Milk",
+            "quantity": 5,
+            "price": 600,
+            "mrp": 540,
+            "product_image": "./static/amul.jpeg",
+            "offer_text": "10% offer" 
+        },
+        {
+            "product_id": 2,
+            "brand_name": "Dairymilk",
+            "product_name": "Dairymilk Silk",
+            "quantity": 12,
+            "price": 70,
+            "mrp": 65,
+            "product_image": "./static/chocolate.jpg",
+            "offer_text": "10% offer" 
+        },
+        {
+            "product_id": 3,
+            "brand_name": "White Flour",
+            "product_name": "Flour",
+            "quantity": 4,
+            "price": 40.50,
+            "mrp": 45.00,
+            "product_image": "./static/flour.jpg",
+            "offer_text": "10% offer" 
+        },
+        {
+            "product_id": 4,
+            "brand_name": "Ghee",
+            "product_name": "Ghee",
+            "quantity": 6,
+            "price": 444,
+            "mrp": 500,
+            "product_image": "./static/ghee.jpeg",
+            "offer_text": "10% offer" 
+        },
+        {
+            "product_id": 5,
+            "brand_name": "Figaro",
+            "product_name": "Olive oil",
+            "quantity": 6,
+            "price": 450,
+            "mrp": 500,
+            "product_image": "./static/oil.jpeg",
+            "offer_text": "10% offer" 
+        },
+        {
+            "product_id": 6,
+            "brand_name": "Onion",
+            "product_name": "Onion",
+            "quantity": 6,
+            "price": 18,
+            "mrp": 20,
+            "product_image": "./static/onion.jpeg",
+            "offer_text": "10% offer" 
+        },
+        {
+            "product_id": 7,
+            "brand_name": "Potato",
+            "product_name": "Potato",
+            "quantity": 6,
+            "price": 18,
+            "mrp": 20,
+            "product_image": "./static/potato.jpeg",
+            "offer_text": "10% offer" 
+        },
+        {
+            "product_id":8,
+            "brand_name": "Tata",
+            "product_name": "Salt",
+            "quantity": 6,
+            "price": 18,
+            "mrp": 16.5,
+            "product_image": "./static/salt.jpeg",
+            "offer_text": "10% offer" 
+        },
+        {
+            "product_id": 9,
+            "brand_name": "Madhur",
+            "product_name": "Sugar",
+            "quantity": 6,
+            "price": 30,
+            "mrp": 27,
+            "product_image": "./static/sugar.jpg",
+            "offer_text": "10% offer" 
+        },
+        {
+            "product_id": 10,
+            "brand_name": "Tumeric",
+            "product_name": "Haldi",
+            "quantity": 6,
+            "price": 30,
+            "mrp": 27,
+            "product_image": "./static/tumeric.jpeg",
+            "offer_text": "10% offer" 
+        }
+    ],
+    "message": "Product List"
+}
