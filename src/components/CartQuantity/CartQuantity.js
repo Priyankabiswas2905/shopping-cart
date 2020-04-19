@@ -2,7 +2,7 @@ import React, { useEffect, useState, useRef } from 'react';
 import './CartQuantity.css'
 
 const CartQty = (props) => {
-    console.log("props: ", props);
+    // console.log("props: ", props);
 
     const cartQtyInput = useRef(1);
 
